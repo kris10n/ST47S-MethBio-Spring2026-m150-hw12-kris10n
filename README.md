@@ -1,2 +1,2 @@
-# ST47S-MethBio-Spring2026-m150-hw12-kris10n
-Had to make my own because the invitation expired...
+# m150-hw12-mc
+repository for HW12 Math 150
